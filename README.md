@@ -1,9 +1,3 @@
-# repertorio
-
-Sistema gerenciador de repertório musical para bandas
-Existem uma grande necessidade para bandas de música em gerenciar seus repertórios musicais. Uma vez que para se manter atualizado as bandas precisam a cada apresentação manter o nível de qualidade e a variedade das músicas nos seus shows. Também existe a necessidade constante dos músicos aprenderem músicas novas para expandirem seu repertório pessoal. Também existe a necessidade em se montar rápidamente uma setlist para uma apresentação em que todos os músicos conheçam as músicas a serem tocadas. Nesse contexto o Repertório vem dar o suporte necessário para que os músicos possam organizar seus repertórios de músicas, facilitando a programação de shows e ensaios.
-
-Segue uma versão revisada e mais clara da descrição do seu **README** para o sistema de repertório musical:
 
 ***
 
